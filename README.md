@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/cocofemi/udacity-project4/tree/master.svg?style=svg)](https://circleci.com/gh/cocofemi/udacity-project4/tree/master)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Funmibi-A/project4_udacity/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Funmibi-A/project4_udacity/tree/main)
 
 ## Project Overview
 
